@@ -141,3 +141,10 @@ a {
     font-size: large;
     
 }
+p{
+    text-align:center ;
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    size: 25px;
+}
