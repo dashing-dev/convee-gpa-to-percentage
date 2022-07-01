@@ -99,4 +99,14 @@ a {
 	}
 
 }
-
+#gpa{
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+    position: relative;
+    left: 50%;
+    margin-left: -120px;
+    margin-top: 90px;
+    margin-bottom: 40px;
+    background-color:rgb(235, 232, 232);
+}
